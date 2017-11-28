@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://louiseeevans.github.io/Punctuationwave" resolutions="1x,2x" timestamp="1511904316689">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://louiseeevans.github.io/Punctuationwave" resolutions="1x,2x" timestamp="1511904942828">
   <folder name="css">
     <file name="site_global.css" crc="3953705333"/>
     <file name="master_a-master.css" crc="4178110696" ref="destruction:index:waviness:about:abbreviation:elongation:sarcasm:approximation"/>
@@ -7,7 +7,7 @@
     <file name="nomq_destruction.css" crc="4172917053" ref="destruction"/>
     <file name="index.css" crc="101501418" ref="index"/>
     <file name="nomq_index.css" crc="512545860" ref="index"/>
-    <file name="waviness.css" crc="148865236" ref="waviness"/>
+    <file name="waviness.css" crc="3914907044" ref="waviness"/>
     <file name="nomq_waviness.css" crc="271469785" ref="waviness"/>
     <file name="about.css" crc="409842663" ref="about"/>
     <file name="nomq_about.css" crc="3942331968" ref="about"/>
@@ -15,9 +15,9 @@
     <file name="nomq_abbreviation.css" crc="3953566050" ref="abbreviation"/>
     <file name="elongation.css" crc="509172792" ref="elongation"/>
     <file name="nomq_elongation.css" crc="293226574" ref="elongation"/>
-    <file name="sarcasm.css" crc="291258347" ref="sarcasm"/>
-    <file name="nomq_sarcasm.css" crc="4024750797" ref="sarcasm"/>
-    <file name="approximation.css" crc="4000636560" ref="approximation"/>
+    <file name="sarcasm.css" crc="4089471176" ref="sarcasm"/>
+    <file name="nomq_sarcasm.css" crc="4185466054" ref="sarcasm"/>
+    <file name="approximation.css" crc="392171328" ref="approximation"/>
     <file name="nomq_approximation.css" crc="4124118155" ref="approximation"/>
   </folder>
   <folder name="scripts">
@@ -381,8 +381,10 @@
     </file>
     <file name="snake_trail100x124.jpg" crc="3862699217" seo="true" ref="waviness">
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
     </file>
     <file name="snake_trail100x124_2x.jpg" crc="4118193207" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
     </file>
     <file name="psm_v13_d183_compressed_and_rarefied_air_particles_of_sound_waves236x166.jpg" crc="255733265" seo="true" ref="waviness">
@@ -619,12 +621,6 @@
       <caption webpage="waviness" alt=""/>
     </file>
     <file name="pool_water_light122x154_2x.jpg" crc="428399174" seo="true" ref="waviness">
-      <caption webpage="waviness" alt=""/>
-    </file>
-    <file name="snake_trail73x92.jpg" crc="4277625021" seo="true" ref="waviness">
-      <caption webpage="waviness" alt=""/>
-    </file>
-    <file name="snake_trail73x92_2x.jpg" crc="155828714" seo="true" ref="waviness">
       <caption webpage="waviness" alt=""/>
     </file>
     <file name="psm_v13_d183_compressed_and_rarefied_air_particles_of_sound_waves176x124.jpg" crc="3849091699" seo="true" ref="waviness">
@@ -935,7 +931,7 @@
     <file name="ruler1374x80.jpg" crc="4214803667" seo="true" ref="approximation">
       <caption webpage="approximation" alt=""/>
     </file>
-    <file name="ruler1405x87.jpg" crc="376292464" seo="true" ref="approximation">
+    <file name="ruler1383x82.jpg" crc="4052193365" seo="true" ref="approximation">
       <caption webpage="approximation" alt=""/>
     </file>
     <file name="ruler1299x64.jpg" crc="4055878389" seo="true" ref="approximation">
@@ -1502,12 +1498,12 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="497902755" seo="true" mt="1511902712980" redirect="true"/>
-  <file name="waviness.html" crc="4147077241" seo="true" mt="1511904255954" redirect="true"/>
-  <file name="abbreviation.html" crc="500482320" seo="true" mt="1511903150457" redirect="true"/>
-  <file name="approximation.html" crc="144868372" seo="true" mt="1511903909186" redirect="true"/>
-  <file name="destruction.html" crc="3800733281" seo="true" mt="1511899967420" redirect="true"/>
-  <file name="elongation.html" crc="328936287" seo="true" mt="1511900235739" redirect="true"/>
-  <file name="sarcasm.html" crc="525505996" seo="true" mt="1511904163300" redirect="true"/>
-  <file name="about.html" crc="435165793" seo="true" mt="1511901377162" redirect="true"/>
+  <file name="index.html" crc="504929984" seo="true" mt="1511902712980" redirect="true"/>
+  <file name="waviness.html" crc="3877482205" seo="true" mt="1511904854253" redirect="true"/>
+  <file name="abbreviation.html" crc="3968350092" seo="true" mt="1511903150457" redirect="true"/>
+  <file name="approximation.html" crc="4204547566" seo="true" mt="1511904760977" redirect="true"/>
+  <file name="destruction.html" crc="4105057488" seo="true" mt="1511899967420" redirect="true"/>
+  <file name="elongation.html" crc="155102791" seo="true" mt="1511900235739" redirect="true"/>
+  <file name="sarcasm.html" crc="4293827482" seo="true" mt="1511904774101" redirect="true"/>
+  <file name="about.html" crc="4065632515" seo="true" mt="1511901377162" redirect="true"/>
 </manifest>
