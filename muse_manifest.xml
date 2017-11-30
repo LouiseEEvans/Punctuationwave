@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://louiseeevans.github.io/Punctuationwave" resolutions="1x,2x" timestamp="1511906000378">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://louiseeevans.github.io/punctuationwave" resolutions="1x,2x" timestamp="1512079485855">
   <folder name="css">
     <file name="site_global.css" crc="3953705333"/>
-    <file name="master_a-master.css" crc="4178110696" ref="destruction:index:waviness:about:abbreviation:elongation:sarcasm:approximation"/>
-    <file name="nomq_preview_master_a-master.css" crc="73737548" ref="destruction:index:waviness:about:abbreviation:elongation:sarcasm:approximation"/>
-    <file name="destruction.css" crc="4028046898" ref="destruction"/>
-    <file name="nomq_destruction.css" crc="4172917053" ref="destruction"/>
-    <file name="index.css" crc="4132239527" ref="index"/>
-    <file name="nomq_index.css" crc="502064276" ref="index"/>
-    <file name="waviness.css" crc="3914907044" ref="waviness"/>
-    <file name="nomq_waviness.css" crc="271469785" ref="waviness"/>
-    <file name="about.css" crc="409842663" ref="about"/>
-    <file name="nomq_about.css" crc="3942331968" ref="about"/>
-    <file name="abbreviation.css" crc="3856462140" ref="abbreviation"/>
-    <file name="nomq_abbreviation.css" crc="3953566050" ref="abbreviation"/>
-    <file name="elongation.css" crc="509172792" ref="elongation"/>
-    <file name="nomq_elongation.css" crc="293226574" ref="elongation"/>
-    <file name="sarcasm.css" crc="4089471176" ref="sarcasm"/>
-    <file name="nomq_sarcasm.css" crc="4185466054" ref="sarcasm"/>
-    <file name="approximation.css" crc="392171328" ref="approximation"/>
-    <file name="nomq_approximation.css" crc="4124118155" ref="approximation"/>
+    <file name="master_a-master.css" crc="289542539" ref="destruction:index:waviness:about:abbreviation:elongation:sarcasm:approximation"/>
+    <file name="nomq_preview_master_a-master.css" crc="246542164" ref="destruction:index:waviness:about:abbreviation:elongation:sarcasm:approximation"/>
+    <file name="destruction.css" crc="520033653" ref="destruction"/>
+    <file name="nomq_destruction.css" crc="163290726" ref="destruction"/>
+    <file name="index.css" crc="4000457265" ref="index"/>
+    <file name="nomq_index.css" crc="3774356883" ref="index"/>
+    <file name="waviness.css" crc="381198505" ref="waviness"/>
+    <file name="nomq_waviness.css" crc="96467737" ref="waviness"/>
+    <file name="about.css" crc="3829644575" ref="about"/>
+    <file name="nomq_about.css" crc="4216480145" ref="about"/>
+    <file name="abbreviation.css" crc="227050160" ref="abbreviation"/>
+    <file name="nomq_abbreviation.css" crc="386109623" ref="abbreviation"/>
+    <file name="elongation.css" crc="5289751" ref="elongation"/>
+    <file name="nomq_elongation.css" crc="4068437137" ref="elongation"/>
+    <file name="sarcasm.css" crc="4176261858" ref="sarcasm"/>
+    <file name="nomq_sarcasm.css" crc="167954963" ref="sarcasm"/>
+    <file name="approximation.css" crc="3813187263" ref="approximation"/>
+    <file name="nomq_approximation.css" crc="3809531882" ref="approximation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:waviness:abbreviation:approximation:destruction:elongation:sarcasm:about"/>
@@ -41,6 +41,28 @@
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
@@ -59,6 +81,17 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
@@ -68,6 +101,31 @@
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -89,6 +147,17 @@
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
@@ -98,6 +167,28 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
@@ -126,6 +217,7 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
     </file>
     <file name="tilde1_poster_.png" crc="391240347" ref="waviness"/>
     <file name="flash_fast.gif" crc="3863596954" seo="true" ref="waviness">
@@ -138,8 +230,10 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
     </file>
     <file name="flash_fast_2x.gif" crc="3863596954" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
@@ -178,8 +272,10 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
     </file>
     <file name="dotty_fast_2x.gif" crc="252850567" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
@@ -200,8 +296,10 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
     </file>
     <file name="cheeky2_2x.gif" crc="4164292432" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
@@ -228,8 +326,10 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
     </file>
     <file name="breathing_2x.gif" crc="148308807" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
@@ -262,9 +362,11 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
     </file>
     <file name="wiggleline_poster_.png" crc="353706258" ref="waviness"/>
     <file name="systematic.gif" crc="3758157516" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
@@ -285,8 +387,10 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
     </file>
     <file name="ripples2_2x.gif" crc="4259384220" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
@@ -307,6 +411,8 @@
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
       <caption webpage="waviness" alt=""/>
+      <caption webpage="waviness" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -605,6 +711,48 @@
     <file name="cymatics-crop-u2011_2x8.jpg" crc="4268435677" seo="true" ref="waviness">
       <caption webpage="waviness" alt=""/>
     </file>
+    <file name="river_waves79x98.jpg" crc="428636514" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="river_waves79x98_2x.jpg" crc="390136851" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="mushroom_gills70x92.jpg" crc="60311668" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="mushroom_gills70x92_2x.jpg" crc="3758616938" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="pool_water_light62x79.jpg" crc="3921603767" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="pool_water_light62x79_2x.jpg" crc="226454993" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="snake_trail57x71.jpg" crc="3890826357" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="snake_trail57x71_2x.jpg" crc="401084325" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="psm_v13_d183_compressed_and_rarefied_air_particles_of_sound_waves144x102.jpg" crc="4200408503" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="psm_v13_d183_compressed_and_rarefied_air_particles_of_sound_waves144x102_2x.jpg" crc="326141537" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="img_2084_small-crop-u18553.jpg" crc="4210265522" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="img_2084_small-crop-u1855_2x3.jpg" crc="311753770" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="cymatics148x104.jpg" crc="517919103" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
+    <file name="cymatics148x104_2x.jpg" crc="3856746841" seo="true" ref="waviness">
+      <caption webpage="waviness" alt=""/>
+    </file>
     <file name="river_waves140x172.jpg" crc="441761571" seo="true" ref="waviness">
       <caption webpage="waviness" alt=""/>
     </file>
@@ -641,6 +789,9 @@
     <file name="cymatics-crop-u2011_2x9.jpg" crc="4010782635" seo="true" ref="waviness">
       <caption webpage="waviness" alt=""/>
     </file>
+    <file name="domesday_book376x278.jpg" crc="4020811248" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
     <file name="scribe.gif" crc="3844558866" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
@@ -651,11 +802,12 @@
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="domesday_book376x278.jpg" crc="4020811248" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
-    <file name="titulus-crop-u3794.png" crc="3781850574" seo="true" ref="abbreviation">
+    <file name="titulus4-crop-u3908.png" crc="4093696688" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus5-crop-u3931.png" crc="4019567912" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus_a.gif" crc="4056356423" seo="true" ref="abbreviation">
@@ -668,28 +820,28 @@
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus-crop-u3794.png" crc="3781850574" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus3-crop-u3805.png" crc="3964162589" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
-    <file name="titulus4-crop-u3908.png" crc="4093696688" seo="true" ref="abbreviation">
+    <file name="abbrv.gif" crc="4257543643" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus5-crop-u3931.png" crc="4019567912" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="pen.gif" crc="3893008917" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
-      <caption webpage="abbreviation" alt=""/>
-      <caption webpage="abbreviation" alt=""/>
-      <caption webpage="abbreviation" alt=""/>
-      <caption webpage="abbreviation" alt=""/>
-      <caption webpage="abbreviation" alt=""/>
-      <caption webpage="abbreviation" alt=""/>
-      <caption webpage="abbreviation" alt=""/>
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="abbrv.gif" crc="4257543643" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
@@ -710,6 +862,8 @@
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
       <caption webpage="abbreviation" alt=""/>
+      <caption webpage="abbreviation" alt=""/>
+      <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
@@ -728,6 +882,7 @@
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
@@ -737,6 +892,8 @@
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
+      <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
@@ -750,25 +907,19 @@
     <file name="domesday_book338x249.jpg" crc="4209683502" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
-    <file name="titulus-crop-u37942.png" crc="329611910" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus3-crop-u38052.png" crc="477882818" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
     <file name="titulus4-crop-u39082.png" crc="4256019949" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus5-crop-u39312.png" crc="4179303178" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
+    <file name="titulus-crop-u37942.png" crc="329611910" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus3-crop-u38052.png" crc="477882818" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
     <file name="domesday_book305x225.jpg" crc="513006637" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus-crop-u37943.png" crc="165414904" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus3-crop-u38053.png" crc="4065134896" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus4-crop-u39083.png" crc="501494132" seo="true" ref="abbreviation">
@@ -777,13 +928,13 @@
     <file name="titulus5-crop-u39313.png" crc="4136914520" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
+    <file name="titulus-crop-u37943.png" crc="165414904" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus3-crop-u38053.png" crc="4065134896" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
     <file name="domesday_book260x192.jpg" crc="4149002715" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus-crop-u37944.png" crc="358459438" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus3-crop-u38054.png" crc="4274268139" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus4-crop-u39084.png" crc="4060084556" seo="true" ref="abbreviation">
@@ -792,13 +943,13 @@
     <file name="titulus5-crop-u39314.png" crc="3772293338" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
+    <file name="titulus-crop-u37944.png" crc="358459438" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus3-crop-u38054.png" crc="4274268139" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
     <file name="domesday_book274x202.jpg" crc="296518917" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus-crop-u37945.png" crc="4256261974" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus3-crop-u38055.png" crc="4277855069" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus4-crop-u39085.png" crc="416467450" seo="true" ref="abbreviation">
@@ -807,13 +958,13 @@
     <file name="titulus5-crop-u39315.png" crc="4076481596" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
+    <file name="titulus-crop-u37945.png" crc="4256261974" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus3-crop-u38055.png" crc="4277855069" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
     <file name="domesday_book220x162.jpg" crc="214113224" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus-crop-u37946.png" crc="311406056" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus3-crop-u38056.png" crc="4086687197" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus4-crop-u39086.png" crc="4086845258" seo="true" ref="abbreviation">
@@ -822,13 +973,13 @@
     <file name="titulus5-crop-u39316.png" crc="3796501517" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
+    <file name="titulus-crop-u37946.png" crc="311406056" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus3-crop-u38056.png" crc="4086687197" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
     <file name="domesday_book203x150.jpg" crc="131673842" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus-crop-u37947.png" crc="191230271" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus3-crop-u38057.png" crc="4163006335" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus4-crop-u39087.png" crc="4112813207" seo="true" ref="abbreviation">
@@ -837,13 +988,13 @@
     <file name="titulus5-crop-u39317.png" crc="258858231" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
+    <file name="titulus-crop-u37947.png" crc="191230271" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus3-crop-u38057.png" crc="4163006335" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
     <file name="domesday_book136x101.jpg" crc="3826519274" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus-crop-u37948.png" crc="408009197" seo="true" ref="abbreviation">
-      <caption webpage="abbreviation" alt=""/>
-    </file>
-    <file name="titulus3-crop-u38058.png" crc="70785227" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="titulus4-crop-u39088.png" crc="175344710" seo="true" ref="abbreviation">
@@ -852,22 +1003,44 @@
     <file name="titulus5-crop-u39318.png" crc="3978177409" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
+    <file name="titulus-crop-u37948.png" crc="408009197" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus3-crop-u38058.png" crc="70785227" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="domesday_book101x74.jpg" crc="170315214" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus4-crop-u39089.png" crc="3793043018" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus5-crop-u39319.png" crc="196445598" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus-crop-u37949.png" crc="145724359" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
+    <file name="titulus3-crop-u38059.png" crc="4222447782" seo="true" ref="abbreviation">
+      <caption webpage="abbreviation" alt=""/>
+    </file>
     <file name="domesday_book237x174.jpg" crc="45905715" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
-    <file name="titulus-crop-u37949.png" crc="191230271" seo="true" ref="abbreviation">
+    <file name="titulus4-crop-u390810.png" crc="4000438661" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
-    <file name="titulus3-crop-u38059.png" crc="272038195" seo="true" ref="abbreviation">
+    <file name="titulus5-crop-u393110.png" crc="179334148" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
-    <file name="titulus4-crop-u39089.png" crc="4000438661" seo="true" ref="abbreviation">
+    <file name="titulus-crop-u379410.png" crc="191230271" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
-    <file name="titulus5-crop-u39319.png" crc="179334148" seo="true" ref="abbreviation">
+    <file name="titulus3-crop-u380510.png" crc="272038195" seo="true" ref="abbreviation">
       <caption webpage="abbreviation" alt=""/>
     </file>
     <file name="yas_tenor.gif" crc="414109738" seo="true" ref="approximation">
+      <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
@@ -891,8 +1064,10 @@
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
     </file>
     <file name="fizz_transparent.gif" crc="4240210553" seo="true" ref="approximation">
+      <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
@@ -913,8 +1088,10 @@
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
+      <caption webpage="approximation" alt=""/>
     </file>
     <file name="subverting_exactitude.gif" crc="3848064659" seo="true" ref="approximation">
+      <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
       <caption webpage="approximation" alt=""/>
@@ -946,6 +1123,9 @@
     <file name="ruler1191x41.jpg" crc="318216154" seo="true" ref="approximation">
       <caption webpage="approximation" alt=""/>
     </file>
+    <file name="ruler1141x30.jpg" crc="4100403518" seo="true" ref="approximation">
+      <caption webpage="approximation" alt=""/>
+    </file>
     <file name="ruler1256x55.jpg" crc="270631561" seo="true" ref="approximation">
       <caption webpage="approximation" alt=""/>
     </file>
@@ -956,6 +1136,7 @@
       <caption webpage="destruction" alt=""/>
     </file>
     <file name="creation.gif" crc="3980379927" seo="true" ref="destruction">
+      <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
@@ -976,8 +1157,10 @@
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
+      <caption webpage="destruction" alt=""/>
     </file>
     <file name="cycle.gif" crc="497117532" seo="true" ref="destruction">
+      <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
       <caption webpage="destruction" alt=""/>
@@ -1030,10 +1213,16 @@
     <file name="keyboard-crop-u8106_2x8.jpg" crc="75287293" seo="true" ref="destruction">
       <caption webpage="destruction" alt=""/>
     </file>
-    <file name="keyboard-crop-u81069.jpg" crc="3961460901" seo="true" ref="destruction">
+    <file name="keyboard-crop-u81069.jpg" crc="3961022475" seo="true" ref="destruction">
       <caption webpage="destruction" alt=""/>
     </file>
-    <file name="keyboard-crop-u8106_2x9.jpg" crc="3985576029" seo="true" ref="destruction">
+    <file name="keyboard-crop-u8106_2x9.jpg" crc="278164865" seo="true" ref="destruction">
+      <caption webpage="destruction" alt=""/>
+    </file>
+    <file name="keyboard-crop-u810610.jpg" crc="3961460901" seo="true" ref="destruction">
+      <caption webpage="destruction" alt=""/>
+    </file>
+    <file name="keyboard-crop-u8106_2x10.jpg" crc="3985576029" seo="true" ref="destruction">
       <caption webpage="destruction" alt=""/>
     </file>
     <file name="screen shot 2017-10-21 at 172817328x213.jpg" crc="4168613337" seo="true" ref="elongation">
@@ -1043,6 +1232,7 @@
       <caption webpage="elongation" alt=""/>
     </file>
     <file name="penny_whistle.gif" crc="4219556158" seo="true" ref="elongation">
+      <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
@@ -1063,8 +1253,10 @@
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
+      <caption webpage="elongation" alt=""/>
     </file>
     <file name="iii2.gif" crc="470961335" seo="true" ref="elongation">
+      <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
       <caption webpage="elongation" alt=""/>
@@ -1117,6 +1309,12 @@
     <file name="screen shot 2017-10-21 at 172817198x128_2x.jpg" crc="455094557" seo="true" ref="elongation">
       <caption webpage="elongation" alt=""/>
     </file>
+    <file name="screen shot 2017-10-21 at 172817146x95.jpg" crc="528422872" seo="true" ref="elongation">
+      <caption webpage="elongation" alt=""/>
+    </file>
+    <file name="screen shot 2017-10-21 at 172817146x95_2x.jpg" crc="189905755" seo="true" ref="elongation">
+      <caption webpage="elongation" alt=""/>
+    </file>
     <file name="screen shot 2017-10-21 at 172817228x148.jpg" crc="74396447" seo="true" ref="elongation">
       <caption webpage="elongation" alt=""/>
     </file>
@@ -1142,8 +1340,10 @@
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
     </file>
     <file name="silly_face2.gif" crc="237974685" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
@@ -1176,6 +1376,7 @@
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
     </file>
     <file name="slippery.gif" crc="349450301" seo="true" ref="sarcasm">
       <caption webpage="sarcasm" alt=""/>
@@ -1187,8 +1388,10 @@
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
+      <caption webpage="sarcasm" alt=""/>
     </file>
     <file name="stretchy2.gif" crc="528367267" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
       <caption webpage="sarcasm" alt=""/>
@@ -1346,22 +1549,43 @@
     <file name="cosmo_cat201x115.jpg" crc="3795118625" seo="true" ref="sarcasm">
       <caption webpage="sarcasm" alt=""/>
     </file>
-    <file name="jlo_bum-crop-u110119.jpg" crc="3937141122" seo="true" ref="sarcasm">
+    <file name="jlo_bum-crop-u110119.jpg" crc="3933928509" seo="true" ref="sarcasm">
       <caption webpage="sarcasm" alt=""/>
     </file>
-    <file name="jlo_bum-crop-u11011_2x9.jpg" crc="3926558755" seo="true" ref="sarcasm">
+    <file name="jlo_bum-crop-u11011_2x9.jpg" crc="3845478392" seo="true" ref="sarcasm">
       <caption webpage="sarcasm" alt=""/>
     </file>
-    <file name="sarcasm_marks-crop-u109429.jpg" crc="50144706" seo="true" ref="sarcasm">
+    <file name="sarcasm_marks-crop-u109429.jpg" crc="111055693" seo="true" ref="sarcasm">
       <caption webpage="sarcasm" alt=""/>
     </file>
-    <file name="img_1039-crop-u109799.jpg" crc="470560962" seo="true" ref="sarcasm">
+    <file name="img_1039-crop-u109799.jpg" crc="361634364" seo="true" ref="sarcasm">
       <caption webpage="sarcasm" alt=""/>
     </file>
-    <file name="jsut_kidding_abs-crop-u110019.jpg" crc="275117635" seo="true" ref="sarcasm">
+    <file name="jsut_kidding_abs-crop-u110019.jpg" crc="4278702763" seo="true" ref="sarcasm">
       <caption webpage="sarcasm" alt=""/>
     </file>
-    <file name="jsut_kidding_abs-crop-u11001_2x9.jpg" crc="4089647103" seo="true" ref="sarcasm">
+    <file name="jsut_kidding_abs-crop-u11001_2x9.jpg" crc="339353229" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
+    </file>
+    <file name="cosmo_cat148x85.jpg" crc="36958016" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
+    </file>
+    <file name="jlo_bum-crop-u1101110.jpg" crc="3937141122" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
+    </file>
+    <file name="jlo_bum-crop-u11011_2x10.jpg" crc="3926558755" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
+    </file>
+    <file name="sarcasm_marks-crop-u1094210.jpg" crc="50144706" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
+    </file>
+    <file name="img_1039-crop-u1097910.jpg" crc="470560962" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
+    </file>
+    <file name="jsut_kidding_abs-crop-u1100110.jpg" crc="275117635" seo="true" ref="sarcasm">
+      <caption webpage="sarcasm" alt=""/>
+    </file>
+    <file name="jsut_kidding_abs-crop-u11001_2x10.jpg" crc="4089647103" seo="true" ref="sarcasm">
       <caption webpage="sarcasm" alt=""/>
     </file>
     <file name="cosmo_cat221x127.jpg" crc="193180468" seo="true" ref="sarcasm">
@@ -1377,8 +1601,10 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="woop.gif" crc="4231863037" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -1485,6 +1711,18 @@
     <file name="tilde_ccp_spread2207x156_2x.jpg" crc="468840804" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="tilde_ccp_spread153x115.jpg" crc="329425967" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="tilde_ccp_spread153x115_2x.jpg" crc="134508012" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="tilde_ccp_spread2153x115.jpg" crc="4294894859" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="tilde_ccp_spread2153x115_2x.jpg" crc="4066320179" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
     <file name="tilde_ccp_spread2205x154.jpg" crc="336996180" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -1498,12 +1736,12 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4000380068" seo="true" mt="1511905935416" redirect="true"/>
-  <file name="waviness.html" crc="323894408" seo="true" mt="1511904854253" redirect="true"/>
-  <file name="abbreviation.html" crc="3792527394" seo="true" mt="1511903150457" redirect="true"/>
-  <file name="approximation.html" crc="3928307144" seo="true" mt="1511904760977" redirect="true"/>
-  <file name="destruction.html" crc="4007595578" seo="true" mt="1511899967420" redirect="true"/>
-  <file name="elongation.html" crc="4234198296" seo="true" mt="1511900235739" redirect="true"/>
-  <file name="sarcasm.html" crc="358111962" seo="true" mt="1511904774101" redirect="true"/>
-  <file name="about.html" crc="4125678741" seo="true" mt="1511901377162" redirect="true"/>
+  <file name="index.html" crc="3895289101" seo="true" mt="1512079177212" redirect="true"/>
+  <file name="waviness.html" crc="280182401" seo="true" mt="1512079177212" redirect="true"/>
+  <file name="abbreviation.html" crc="4075327193" seo="true" mt="1512079177212" redirect="true"/>
+  <file name="approximation.html" crc="319183576" seo="true" mt="1512079177212" redirect="true"/>
+  <file name="destruction.html" crc="295911805" seo="true" mt="1512079177212" redirect="true"/>
+  <file name="elongation.html" crc="434686623" seo="true" mt="1512079177212" redirect="true"/>
+  <file name="sarcasm.html" crc="122037161" seo="true" mt="1512079177212" redirect="true"/>
+  <file name="about.html" crc="136795899" seo="true" mt="1512079177212" redirect="true"/>
 </manifest>
